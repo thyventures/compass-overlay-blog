@@ -1,0 +1,20 @@
+baseURL: https://blog.compassoverlay.com/
+languageCode: en-us
+title: Compass Overlay Blog
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Compass Overlay
+  description: "Property Facing and Sun Direction App"
+  keywords: [compass, floorplan, property, agents, guru, sla, bto, hdb, direction, facing, unit, fengshui, feng, shui, app, tool, myproperty, sun, sun direction, west sun, afternoon sun, morning sun, sun compass]
