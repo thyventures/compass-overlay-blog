@@ -18,3 +18,7 @@ params:
   title: Compass Overlay
   description: "Property Facing and Sun Direction App"
   keywords: [compass, floorplan, property, agents, guru, sla, bto, hdb, direction, facing, unit, fengshui, feng, shui, app, tool, myproperty, sun, sun direction, west sun, afternoon sun, morning sun, sun compass]
+
+services:
+  googleAnalytics:
+    ID: G-PS9S5Q3430
